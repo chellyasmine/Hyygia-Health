@@ -1,6 +1,6 @@
 # The problem
 
-Endometriosis affects around 1 in 10 women of reproductive age, yet it takes years to diagnose and is still mostly managed reactively. A woman with endometriosis has no warning signal. She organizes her life in permanent uncertainty. That uncertainty doesn't stop at the physical pain: it feeds chronic stress, fatigue, and isolation.
+Endometriosis affects around 1 in 10 women of reproductive age, yet it takes years to diagnose and is still mostly managed reactively. A woman with endometriosis has no warning signal. She organizes her life in permanent uncertainty. That uncertainty doesn't stop at the physical pain: it feeds chronic stress, tiredness, and isolation.
 
 # What we're building
 
