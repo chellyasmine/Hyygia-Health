@@ -10,16 +10,16 @@ Hyygia is a non-invasive monitoring wearable for women's health which provides r
 
 Hyygia combines a wearable sensor with machine learning models trained to learn individual physiological baselines and detect deviations over time. The system is built around two complementary physiological signals, chosen because endometriosis crises cannot be anticipated reliably from a single marker alone.
 
-_Hyygia is not a medical devise and doesn't intended to diagnose or to predict crises. It is a wellbeing device used to detect gradual physiological drifts and identify patterns and changes across women cycle to better understand symptoms, balance, and overall wellbeing_.
+_Hyygia is not a medical device and is not intended to diagnose or to predict crises. It is a wellbeing device used to detect gradual physiological drifts and identify patterns and changes across cycle to better understand symptoms, balance, and overall wellbeing_.
 
 # Status
 
-- Prototyping phase. We are currently building and validating our first hardware prototype in collaboration with a French hardware engineering partner.
-- Technical implementation - device specifications, firmware and data models - is maintained privately.
+- **Prototyping phase**. We are currently building and validating our first hardware prototype in collaboration with a French hardware engineering partner.
+- **Technical implementation** (device specifications, firmware and data models) is maintained privately.
 
 # Recognition
 
-*AAP Pépites PSL – Prototypage 2026* — Selected for a prototyping grant (Région Île-de-France, via PSL), supporting the build of our first hardware prototype.
+**AAP Pépites PSL – Prototypage 2026**. Prototyping grant (Région Île-de-France) laureate, supporting the build of our first hardware prototype.
 
 # Get in touch 
 [LinkedIn](https://www.linkedin.com/in/yasmine-chelly-83bb18232/)
