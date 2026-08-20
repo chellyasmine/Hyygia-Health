@@ -1,27 +1,25 @@
-# Hyygia-Health
-Building a  continuous, non-invasive and real-time wearable for women that takes endometriosis seriously. The aim is to detect physiological states consistent with increased stress or inflammation. 
-
 # The problem
-Building a  continuous, non-invasive and real-time wearable for women that takes endometriosis seriously.
+
+Endometriosis affects around 1 in 10 women of reproductive age, yet it takes years to diagnose and is still mostly managed reactively. A woman with endometriosis has no warning signal. She organizes her life in permanent uncertainty. That uncertainty doesn't stop at the physical pain: it feeds chronic stress, fatigue, and isolation.
 
 # What we're building
 
-We're building toward a future where that changes. Where noninvasive sensing becomes the foundation of healthcare. Where your body's signals are heard clearly, continuously, and acted on before small issues become crises.
+Hyygia is a non-invasive monitoring wearable for women's health which provides real-time tracking of vital signs. It learns women normal physiological rhythm and flags meaningful deviations — so that periods of vulnerability can be spotted early, before symptoms become crises.
 
 # Approach
 
-Wellbeing. 
-Identify patterns and changes across your cycle to better understand symptoms, balance, and overall wellbeing.
+Hyygia combines a wearable sensor with machine learning models trained to learn individual physiological baselines and detect deviations over time. The system is built around two complementary physiological signals, chosen because endometriosis crises cannot be anticipated reliably from a single marker alone.
+
+_Hyygia is not a medical devise and doesn't intended to diagnose or to predict crises. It is a wellbeing device used to detect gradual physiological drifts and identify patterns and changes across women cycle to better understand symptoms, balance, and overall wellbeing_.
 
 # Status
 
 - Prototyping phase. We are currently building and validating our first hardware prototype in collaboration with a French hardware engineering partner.
-- Technical implementation, device specifications, and firmware are maintained privately.
-
+- Technical implementation - device specifications, firmware and data models - is maintained privately.
 
 # Recognition
 
-AAP Pépites PSL – Prototypage 2026 — selected for a prototyping grant (Région Île-de-France, via PSL), supporting the build of our first hardware prototype.
+*AAP Pépites PSL – Prototypage 2026* — Selected for a prototyping grant (Région Île-de-France, via PSL), supporting the build of our first hardware prototype.
 
 # Get in touch 
 [LinkedIn](https://www.linkedin.com/in/yasmine-chelly-83bb18232/)
