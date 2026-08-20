@@ -22,4 +22,4 @@ Prototyping phase. We are currently building and validating our first hardware p
 AAP Pépites PSL – Prototypage 2026 — selected for a prototyping grant (Région Île-de-France, via PSL), supporting the build of our first hardware prototype.
 
 # Get in touch 
-[LinkedIn]([[url](https://www.linkedin.com/in/yasmine-chelly-83bb18232/)])
+[LinkedIn](https://www.linkedin.com/in/yasmine-chelly-83bb18232/)
