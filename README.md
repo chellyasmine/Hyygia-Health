@@ -15,7 +15,9 @@ Identify patterns and changes across your cycle to better understand symptoms, b
 
 # Status
 
-Prototyping phase. We are currently building and validating our first hardware prototype in collaboration with a French hardware engineering partner.
+- Prototyping phase. We are currently building and validating our first hardware prototype in collaboration with a French hardware engineering partner.
+- Technical implementation, device specifications, and firmware are maintained privately.
+
 
 # Recognition
 
